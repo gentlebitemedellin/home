@@ -1,2 +1,3 @@
+Sitemap: https://gentlebitemedellin.github.io/home/sitemap.xml"
 User-agent: * 
 Disallow:
